@@ -1,0 +1,7 @@
+Git add style.css = ajouter le style
+git add * = ajouter tout 
+git checkout master = permet de swtich entre les deux
+clear = ?
+git branch = switch de branch
+git branch (mettre ce qu'on veut) = permet de créer une nouvelle branche
+git branch -d "" = supprimer une branch
